@@ -12,7 +12,7 @@ Contacts: This is my form to allow visitors to contact me and know me.
 
 I just used Github Desktop and create my repository then I connect my Github account to Visual Studio Code then it automatically clone my repository in my Visual Studio Code.
 
-# My Tags that I untelized
+# My Tags that I utilized
 HTML and TAGS that I utelized
 Header: I include my welcoming title and navigation bar with links t different sections of the site. 
 Navigation Menu: Each link is associated with an ID of a specific section then I uses an unordered list to display navigational link as inline items. 
